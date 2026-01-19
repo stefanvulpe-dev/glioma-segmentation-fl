@@ -1,0 +1,3 @@
+run_name,model_name,encoder_name,num_rounds,local_epochs,lr,elapsed_sec,model_bytes,n_params,est_total_comm_mb,avg_fit_time_sec_per_round_per_client,avg_eval_time_sec_per_round_per_client,avg_gpu_max_alloc_mb,avg_rss_delta_mb
+unet__resnet50,unet,resnet50,7,7,0.001,361.160587779,130292796,32517969,8697.982521057129,4.860554315342863,0.22401265134287607,1261.1061802455358,25.44887408088235
+unet__resnet50,unet,resnet50,7,7,0.001,301.924473432,130292796,32517969,8697.982521057129,4.476306805428625,0.2213023961714238,1184.1802176339286,23.230245535714285

@@ -1,0 +1,10 @@
+[Ensemble-3 | threshold=0.5 | weight_mode=power | power=8.0]
+
+Client 0 (n=9): loss=0.1591 dice=0.7547 iou=0.6244 acc=0.9843
+  best_dice=['0.6870', '0.7512', '0.7331'] -> weights=['0.212', '0.433', '0.356']
+
+Client 1 (n=25): loss=0.1624 dice=0.7716 iou=0.6326 acc=0.9793
+  best_dice=['0.7340', '0.7567', '0.6789'] -> weights=['0.356', '0.454', '0.191']
+
+Client 2 (n=8): loss=0.2492 dice=0.5701 iou=0.3987 acc=0.9908
+  best_dice=['0.5351', '0.5405', '0.4524'] -> weights=['0.427', '0.462', '0.111']

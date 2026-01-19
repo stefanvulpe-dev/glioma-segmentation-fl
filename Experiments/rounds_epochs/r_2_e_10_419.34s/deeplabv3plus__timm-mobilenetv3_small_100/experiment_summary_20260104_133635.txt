@@ -1,0 +1,8 @@
+=== Experiment summary ===
+Timestamp: 2026-01-04T13:36:35
+
+Rounds: 3
+Local epochs per round: 7
+
+Total duration (seconds): 141.4523
+Total duration (hh:mm:ss): 00:02:21.45

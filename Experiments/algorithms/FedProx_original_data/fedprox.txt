@@ -1,0 +1,7 @@
+Introduced FedProx on the client by adding a proximal penalty to the training loss:
+loss = base_loss + 0.5 * mu * ||w - w_global||^2 (when mu > 0).
+
+To compute that penalty, the client now stores a snapshot of the received global weights at the start of fit() (global_params).
+
+On the server side, now send the FedProx hyperparameter mu to clients via on_fit_config_fn (set it to 0.01).
+If mu = 0, the code behaves like FedAvg.

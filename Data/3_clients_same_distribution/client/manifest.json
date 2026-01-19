@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "use_atlas": true,
+  "n_clients": 3,
+  "val_frac_per_client": 0.2,
+  "batch_size": 8,
+  "num_workers": 2,
+  "kfold_level": "ht_size"
+}

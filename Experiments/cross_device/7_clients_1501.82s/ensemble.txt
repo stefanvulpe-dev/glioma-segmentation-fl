@@ -1,0 +1,29 @@
+[Ensemble | threshold=0.5 | weight_mode=power | power=8.0]
+
+Client 0 (n=20): loss=0.2694 dice=0.5568 iou=0.3907 acc=0.9829
+  best_dice=['0.4566', '0.5199', '0.5361'] -> weights=['0.134', '0.380', '0.486']
+  used_cfgs=[('unet', 'resnet50'), ('unet', 'mit_b3'), ('deeplabv3plus', 'timm-mobilenetv3_small_100')]
+
+Client 1 (n=14): loss=0.1697 dice=0.7585 iou=0.6133 acc=0.9773
+  best_dice=['0.6966', '0.7579', '0.6850'] -> weights=['0.261', '0.512', '0.228']
+  used_cfgs=[('unet', 'resnet50'), ('unet', 'mit_b3'), ('deeplabv3plus', 'timm-mobilenetv3_small_100')]
+
+Client 2 (n=2): loss=0.1487 dice=0.7537 iou=0.6047 acc=0.9901
+  best_dice=['0.5533', '0.7531', '0.5888'] -> weights=['0.069', '0.817', '0.114']
+  used_cfgs=[('unet', 'resnet50'), ('unet', 'mit_b3'), ('deeplabv3plus', 'timm-mobilenetv3_small_100')]
+
+Client 3 (n=2): loss=0.1027 dice=0.8738 iou=0.7759 acc=0.9820
+  best_dice=['0.7086', '0.8530', '0.8591'] -> weights=['0.099', '0.438', '0.463']
+  used_cfgs=[('unet', 'resnet50'), ('unet', 'mit_b3'), ('deeplabv3plus', 'timm-mobilenetv3_small_100')]
+
+Client 4 (n=1): loss=0.0916 dice=0.8775 iou=0.7818 acc=0.9858
+  best_dice=['0.8767', '0.8568'] -> weights=['0.546', '0.454']
+  used_cfgs=[('unet', 'resnet50'), ('unet', 'mit_b3')]
+
+Client 5 (n=1): loss=0.3057 dice=0.5474 iou=0.3768 acc=0.9599
+  best_dice=['0.4981', '0.4899', '0.4773'] -> weights=['0.387', '0.338', '0.275']
+  used_cfgs=[('unet', 'resnet50'), ('unet', 'mit_b3'), ('deeplabv3plus', 'timm-mobilenetv3_small_100')]
+
+Client 6 (n=3): loss=0.1186 dice=0.8206 iou=0.6958 acc=0.9866
+  best_dice=['0.6739', '0.8244', '0.7156'] -> weights=['0.131', '0.657', '0.212']
+  used_cfgs=[('unet', 'resnet50'), ('unet', 'mit_b3'), ('deeplabv3plus', 'timm-mobilenetv3_small_100')]

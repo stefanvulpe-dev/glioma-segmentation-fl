@@ -1,0 +1,144 @@
+{
+  "global": {
+    "name": "ALL",
+    "n": 202,
+    "has_tumor_counts": {
+      "1": 202
+    },
+    "size_bin_counts": {
+      "0": 68,
+      "1": 67,
+      "2": 67
+    },
+    "dom_region_top5": {
+      "61": 85,
+      "50": 81,
+      "0": 10,
+      "10": 4,
+      "22": 3
+    }
+  },
+  "per_client": [
+    {
+      "client": 0,
+      "train": {
+        "name": "client_0_train",
+        "n": 54,
+        "has_tumor_counts": {
+          "1": 54
+        },
+        "size_bin_counts": {
+          "1": 18,
+          "2": 18,
+          "0": 18
+        },
+        "dom_region_top5": {
+          "61": 29,
+          "50": 15,
+          "0": 4,
+          "7": 1,
+          "17": 1
+        }
+      },
+      "val": {
+        "name": "client_0_val",
+        "n": 14,
+        "has_tumor_counts": {
+          "1": 14
+        },
+        "size_bin_counts": {
+          "0": 5,
+          "1": 5,
+          "2": 4
+        },
+        "dom_region_top5": {
+          "50": 9,
+          "53": 1,
+          "10": 1,
+          "61": 1,
+          "15": 1
+        }
+      }
+    },
+    {
+      "client": 1,
+      "train": {
+        "name": "client_1_train",
+        "n": 53,
+        "has_tumor_counts": {
+          "1": 53
+        },
+        "size_bin_counts": {
+          "1": 18,
+          "2": 18,
+          "0": 17
+        },
+        "dom_region_top5": {
+          "50": 22,
+          "61": 19,
+          "0": 3,
+          "22": 2,
+          "10": 1
+        }
+      },
+      "val": {
+        "name": "client_1_val",
+        "n": 14,
+        "has_tumor_counts": {
+          "1": 14
+        },
+        "size_bin_counts": {
+          "2": 5,
+          "0": 5,
+          "1": 4
+        },
+        "dom_region_top5": {
+          "50": 6,
+          "61": 6,
+          "10": 1,
+          "22": 1
+        }
+      }
+    },
+    {
+      "client": 2,
+      "train": {
+        "name": "client_2_train",
+        "n": 53,
+        "has_tumor_counts": {
+          "1": 53
+        },
+        "size_bin_counts": {
+          "2": 18,
+          "0": 18,
+          "1": 17
+        },
+        "dom_region_top5": {
+          "61": 25,
+          "50": 22,
+          "23": 1,
+          "31": 1,
+          "62": 1
+        }
+      },
+      "val": {
+        "name": "client_2_val",
+        "n": 14,
+        "has_tumor_counts": {
+          "1": 14
+        },
+        "size_bin_counts": {
+          "0": 5,
+          "1": 5,
+          "2": 4
+        },
+        "dom_region_top5": {
+          "50": 7,
+          "61": 5,
+          "10": 1,
+          "0": 1
+        }
+      }
+    }
+  ]
+}

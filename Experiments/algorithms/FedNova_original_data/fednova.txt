@@ -1,0 +1,13 @@
+FedNova (Federated Normalized Averaging) corrects client drift caused by heterogeneous local training.
+
+Each client trains locally and returns its updated model along with the number of local optimization steps.
+
+Instead of directly averaging models, the server computes each client’s update relative to the global model.
+
+These updates are normalized by the client’s local step count before aggregation.
+
+The normalized updates are then combined to produce the new global model.
+
+Key idea: clients that trained more do not dominate the aggregation.
+
+Result: FedNova achieves more stable and theoretically consistent convergence than FedAvg under non-IID data and varying local workloads.

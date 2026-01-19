@@ -1,0 +1,21 @@
+[INFO] Created 5 non-IID clients using Dirichlet split (alpha=0.3).
+
+=== Global summary ===
+{'name': 'ALL', 'n': 202, 'has_tumor_counts': {1: 202}, 'size_bin_counts': {0: 68, 1: 67, 2: 67}, 'dom_region_top5': {61: 85, 50: 81, 0: 10, 10: 4, 22: 3}}
+
+=== Client 0 ===
+{'client': 0, 'train': {'name': 'client_0_train', 'n': 32, 'has_tumor_counts': {1: 32}, 'size_bin_counts': {1: 31, 0: 1}, 'dom_region_top5': {50: 16, 61: 13, 0: 2, 62: 1}}, 'val': {'name': 'client_0_val', 'n': 9, 'has_tumor_counts': {1: 9}, 'size_bin_counts': {1: 9}, 'dom_region_top5': {50: 5, 61: 3, 10: 1}}}
+
+=== Client 1 ===
+{'client': 1, 'train': {'name': 'client_1_train', 'n': 49, 'has_tumor_counts': {1: 49}, 'size_bin_counts': {2: 23, 1: 17, 0: 9}, 'dom_region_top5': {61: 24, 50: 19, 7: 1, 62: 1, 0: 1}}, 'val': {'name': 'client_1_val', 'n': 13, 'has_tumor_counts': {1: 13}, 'size_bin_counts': {1: 7, 2: 5, 0: 1}, 'dom_region_top5': {61: 7, 50: 6}}}
+
+=== Client 2 ===
+{'client': 2, 'train': {'name': 'client_2_train', 'n': 4, 'has_tumor_counts': {1: 4}, 'size_bin_counts': {1: 2, 0: 2}, 'dom_region_top5': {61: 2, 50: 2}}, 'val': {'name': 'client_2_val', 'n': 1, 'has_tumor_counts': {1: 1}, 'size_bin_counts': {0: 1}, 'dom_region_top5': {50: 1}}}
+
+=== Client 3 ===
+{'client': 3, 'train': {'name': 'client_3_train', 'n': 43, 'has_tumor_counts': {1: 43}, 'size_bin_counts': {0: 42, 2: 1}, 'dom_region_top5': {50: 17, 61: 10, 10: 3, 0: 3, 22: 2}}, 'val': {'name': 'client_3_val', 'n': 11, 'has_tumor_counts': {1: 11}, 'size_bin_counts': {0: 11}, 'dom_region_top5': {50: 3, 61: 2, 0: 2, 23: 1, 17: 1}}}
+
+=== Client 4 ===
+{'client': 4, 'train': {'name': 'client_4_train', 'n': 32, 'has_tumor_counts': {1: 32}, 'size_bin_counts': {2: 30, 0: 1, 1: 1}, 'dom_region_top5': {61: 20, 50: 8, 0: 2, 1: 1, 51: 1}}, 'val': {'name': 'client_4_val', 'n': 8, 'has_tumor_counts': {1: 8}, 'size_bin_counts': {2: 8}, 'dom_region_top5': {61: 4, 50: 4}}}
+
+Saved 5 non-IID client splits and summaries to: AITDM/client

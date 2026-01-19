@@ -1,0 +1,264 @@
+{
+  "global": {
+    "name": "ALL",
+    "n": 202,
+    "has_tumor_counts": {
+      "1": 202
+    },
+    "size_bin_counts": {
+      "0": 68,
+      "1": 67,
+      "2": 67
+    },
+    "dom_region_top5": {
+      "61": 85,
+      "50": 81,
+      "0": 10,
+      "10": 4,
+      "22": 3
+    }
+  },
+  "per_client": [
+    {
+      "client": 0,
+      "train": {
+        "name": "client_0_train",
+        "n": 76,
+        "has_tumor_counts": {
+          "1": 76
+        },
+        "size_bin_counts": {
+          "0": 38,
+          "1": 28,
+          "2": 10
+        },
+        "dom_region_top5": {
+          "50": 32,
+          "61": 29,
+          "10": 4,
+          "0": 2,
+          "23": 1
+        }
+      },
+      "val": {
+        "name": "client_0_val",
+        "n": 20,
+        "has_tumor_counts": {
+          "1": 20
+        },
+        "size_bin_counts": {
+          "0": 12,
+          "1": 7,
+          "2": 1
+        },
+        "dom_region_top5": {
+          "50": 11,
+          "61": 5,
+          "0": 3,
+          "4": 1
+        }
+      }
+    },
+    {
+      "client": 1,
+      "train": {
+        "name": "client_1_train",
+        "n": 56,
+        "has_tumor_counts": {
+          "1": 56
+        },
+        "size_bin_counts": {
+          "2": 37,
+          "1": 17,
+          "0": 2
+        },
+        "dom_region_top5": {
+          "61": 29,
+          "50": 18,
+          "0": 4,
+          "15": 2,
+          "1": 1
+        }
+      },
+      "val": {
+        "name": "client_1_val",
+        "n": 14,
+        "has_tumor_counts": {
+          "1": 14
+        },
+        "size_bin_counts": {
+          "2": 10,
+          "1": 3,
+          "0": 1
+        },
+        "dom_region_top5": {
+          "61": 8,
+          "50": 6
+        }
+      }
+    },
+    {
+      "client": 2,
+      "train": {
+        "name": "client_2_train",
+        "n": 8,
+        "has_tumor_counts": {
+          "1": 8
+        },
+        "size_bin_counts": {
+          "0": 5,
+          "1": 2,
+          "2": 1
+        },
+        "dom_region_top5": {
+          "50": 3,
+          "53": 1,
+          "22": 1,
+          "45": 1,
+          "61": 1
+        }
+      },
+      "val": {
+        "name": "client_2_val",
+        "n": 2,
+        "has_tumor_counts": {
+          "1": 2
+        },
+        "size_bin_counts": {
+          "0": 2
+        },
+        "dom_region_top5": {
+          "61": 1,
+          "22": 1
+        }
+      }
+    },
+    {
+      "client": 3,
+      "train": {
+        "name": "client_3_train",
+        "n": 4,
+        "has_tumor_counts": {
+          "1": 4
+        },
+        "size_bin_counts": {
+          "1": 3,
+          "2": 1
+        },
+        "dom_region_top5": {
+          "50": 3,
+          "61": 1
+        }
+      },
+      "val": {
+        "name": "client_3_val",
+        "n": 2,
+        "has_tumor_counts": {
+          "1": 2
+        },
+        "size_bin_counts": {
+          "2": 2
+        },
+        "dom_region_top5": {
+          "61": 2
+        }
+      }
+    },
+    {
+      "client": 4,
+      "train": {
+        "name": "client_4_train",
+        "n": 1,
+        "has_tumor_counts": {
+          "1": 1
+        },
+        "size_bin_counts": {
+          "2": 1
+        },
+        "dom_region_top5": {
+          "61": 1
+        }
+      },
+      "val": {
+        "name": "client_4_val",
+        "n": 1,
+        "has_tumor_counts": {
+          "1": 1
+        },
+        "size_bin_counts": {
+          "2": 1
+        },
+        "dom_region_top5": {
+          "50": 1
+        }
+      }
+    },
+    {
+      "client": 5,
+      "train": {
+        "name": "client_5_train",
+        "n": 4,
+        "has_tumor_counts": {
+          "1": 4
+        },
+        "size_bin_counts": {
+          "0": 3,
+          "2": 1
+        },
+        "dom_region_top5": {
+          "50": 2,
+          "22": 1,
+          "61": 1
+        }
+      },
+      "val": {
+        "name": "client_5_val",
+        "n": 1,
+        "has_tumor_counts": {
+          "1": 1
+        },
+        "size_bin_counts": {
+          "2": 1
+        },
+        "dom_region_top5": {
+          "61": 1
+        }
+      }
+    },
+    {
+      "client": 6,
+      "train": {
+        "name": "client_6_train",
+        "n": 10,
+        "has_tumor_counts": {
+          "1": 10
+        },
+        "size_bin_counts": {
+          "0": 5,
+          "1": 4,
+          "2": 1
+        },
+        "dom_region_top5": {
+          "61": 5,
+          "50": 3,
+          "0": 1,
+          "2": 1
+        }
+      },
+      "val": {
+        "name": "client_6_val",
+        "n": 3,
+        "has_tumor_counts": {
+          "1": 3
+        },
+        "size_bin_counts": {
+          "1": 3
+        },
+        "dom_region_top5": {
+          "50": 2,
+          "61": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+FedOpt implementation changes (brief):
+
+The server no longer directly averages client models.
+
+After standard client training, the server computes a pseudo-gradient as the difference between the current global model and the weighted average of client models.
+
+A server-side optimizer (SGD) is applied to this pseudo-gradient to update the global model.
+
+Optional server momentum is supported, enabling smoother and more stable convergence.
+
+In short: FedOpt replaces plain aggregation with an explicit optimization step on the server.

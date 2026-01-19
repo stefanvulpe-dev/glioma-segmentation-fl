@@ -1,0 +1,3 @@
+run_name,model_name,encoder_name,num_rounds,local_epochs,lr,elapsed_sec,model_bytes,n_params,est_total_comm_mb,avg_fit_time_sec_per_round_per_client,avg_eval_time_sec_per_round_per_client,avg_gpu_max_alloc_mb,avg_rss_delta_mb
+deeplabv3plus__timm-mobilenetv3_small_100,deeplabv3plus,timm-mobilenetv3_small_100,15,10,0.0005,486.45890300299993,8709532,2160993,747.5451278686523,8.674465357999992,0.21993915342220335,378.5065646701389,32.05496002906977
+deeplabv3plus__timm-mobilenetv3_small_100,deeplabv3plus,timm-mobilenetv3_small_100,10,15,0.0005,456.06469522999987,8709532,2160993,498.36341857910156,12.616166965166666,0.22553737740004182,376.2956217447917,45.9921875
