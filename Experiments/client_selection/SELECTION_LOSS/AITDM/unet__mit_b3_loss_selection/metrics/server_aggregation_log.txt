@@ -1,0 +1,7 @@
+Round 1 Aggregation Time: 0.6868 seconds
+Round 2 Aggregation Time: 0.4187 seconds
+Round 3 Aggregation Time: 0.3977 seconds
+Round 4 Aggregation Time: 0.4086 seconds
+Round 5 Aggregation Time: 0.3985 seconds
+Round 6 Aggregation Time: 0.3946 seconds
+Round 7 Aggregation Time: 0.4202 seconds

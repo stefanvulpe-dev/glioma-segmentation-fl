@@ -1,0 +1,10 @@
+Client 2 Round 0: Incoming 8505.40 KB | Outgoing 425.26 KB | Overhead: 0.042946s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.056893s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.058407s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.060851s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.058659s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.057498s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.059131s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.058576s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.058120s
+Client 2 Round 0: Incoming 4252.62 KB | Outgoing 425.26 KB | Overhead: 0.058756s

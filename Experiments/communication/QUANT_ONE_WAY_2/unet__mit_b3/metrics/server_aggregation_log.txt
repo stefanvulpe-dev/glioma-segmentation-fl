@@ -1,0 +1,15 @@
+Round 1: Aggregation Time: 3.0092s | Downlink Payload: 92563.05 KB
+Round 2: Aggregation Time: 2.9302s | Downlink Payload: 92563.05 KB
+Round 3: Aggregation Time: 2.9321s | Downlink Payload: 92563.05 KB
+Round 4: Aggregation Time: 2.9408s | Downlink Payload: 92563.05 KB
+Round 5: Aggregation Time: 2.9321s | Downlink Payload: 92563.05 KB
+Round 6: Aggregation Time: 2.9091s | Downlink Payload: 92563.05 KB
+Round 7: Aggregation Time: 2.9213s | Downlink Payload: 92563.05 KB
+Round 8: Aggregation Time: 2.9431s | Downlink Payload: 92563.05 KB
+Round 9: Aggregation Time: 2.9439s | Downlink Payload: 92563.05 KB
+Round 10: Aggregation Time: 2.9328s | Downlink Payload: 92563.05 KB
+Round 11: Aggregation Time: 2.9199s | Downlink Payload: 92563.05 KB
+Round 12: Aggregation Time: 2.9127s | Downlink Payload: 92563.05 KB
+Round 13: Aggregation Time: 2.8972s | Downlink Payload: 92563.05 KB
+Round 14: Aggregation Time: 2.9409s | Downlink Payload: 92563.05 KB
+Round 15: Aggregation Time: 2.9318s | Downlink Payload: 92563.05 KB

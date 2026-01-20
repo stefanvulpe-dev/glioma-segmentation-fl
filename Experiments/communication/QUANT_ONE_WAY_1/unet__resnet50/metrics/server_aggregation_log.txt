@@ -1,0 +1,5 @@
+Round 1: Aggregation Time: 2.2119s | Downlink Payload: 63666.91 KB
+Round 2: Aggregation Time: 2.0983s | Downlink Payload: 63666.91 KB
+Round 3: Aggregation Time: 2.1085s | Downlink Payload: 63666.91 KB
+Round 4: Aggregation Time: 2.0937s | Downlink Payload: 63666.91 KB
+Round 5: Aggregation Time: 2.1126s | Downlink Payload: 63666.91 KB

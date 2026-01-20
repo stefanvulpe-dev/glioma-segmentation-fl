@@ -1,0 +1,12 @@
+Client 1 Round 2: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000000s
+Client 1 Round 5: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000000s
+Client 1 Round 8: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000000s
+Client 1 Round 11: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000001s
+Client 1 Round 12: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000001s
+Client 1 Round 14: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000000s
+Client 1 Round 15: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000001s
+Client 1 Round 17: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000000s
+Client 1 Round 19: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000000s
+Client 1 Round 22: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000000s
+Client 1 Round 28: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000001s
+Client 1 Round 40: Incoming 8505.40 KB | Outgoing 8505.40 KB | Overhead: 0.000000s

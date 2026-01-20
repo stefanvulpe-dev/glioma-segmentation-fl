@@ -1,0 +1,5 @@
+Client 2 Round 1: Incoming 184967.64 KB | Outgoing (Sparse) 36992.55 KB | Overhead: 0.960634s
+Client 2 Round 2: Incoming 184967.64 KB | Outgoing (Sparse) 36992.53 KB | Overhead: 1.030744s
+Client 2 Round 3: Incoming 184967.64 KB | Outgoing (Sparse) 36992.50 KB | Overhead: 1.006773s
+Client 2 Round 4: Incoming 184967.64 KB | Outgoing (Sparse) 36992.52 KB | Overhead: 1.041841s
+Client 2 Round 5: Incoming 184967.64 KB | Outgoing (Sparse) 36992.52 KB | Overhead: 1.023277s

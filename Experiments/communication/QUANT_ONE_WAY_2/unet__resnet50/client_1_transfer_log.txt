@@ -1,0 +1,15 @@
+Client 1 Round 1: Incoming 127239.06 KB | Outgoing 63619.41 KB | Overhead: 0.225120s
+Client 1 Round 2: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.229671s
+Client 1 Round 3: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.225102s
+Client 1 Round 4: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.228958s
+Client 1 Round 5: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.220665s
+Client 1 Round 6: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.228299s
+Client 1 Round 7: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.224229s
+Client 1 Round 8: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.222703s
+Client 1 Round 9: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.222147s
+Client 1 Round 10: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.222407s
+Client 1 Round 11: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.221827s
+Client 1 Round 12: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.221705s
+Client 1 Round 13: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.221943s
+Client 1 Round 14: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.225337s
+Client 1 Round 15: Incoming 63619.41 KB | Outgoing 63619.41 KB | Overhead: 0.221902s

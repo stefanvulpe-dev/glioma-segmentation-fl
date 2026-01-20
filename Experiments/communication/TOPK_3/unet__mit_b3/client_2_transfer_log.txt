@@ -1,0 +1,5 @@
+Client 2 Round 1: Incoming 184967.64 KB | Outgoing (Actual Sparse Packet) 55488.83 KB | Overhead: 1.261876s
+Client 2 Round 2: Incoming 184967.64 KB | Outgoing (Actual Sparse Packet) 55488.80 KB | Overhead: 1.272360s
+Client 2 Round 3: Incoming 184967.64 KB | Outgoing (Actual Sparse Packet) 55488.76 KB | Overhead: 1.198812s
+Client 2 Round 4: Incoming 184967.64 KB | Outgoing (Actual Sparse Packet) 55488.75 KB | Overhead: 1.225957s
+Client 2 Round 5: Incoming 184967.64 KB | Outgoing (Actual Sparse Packet) 55488.76 KB | Overhead: 1.243002s

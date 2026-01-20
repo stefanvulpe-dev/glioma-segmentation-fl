@@ -1,0 +1,11 @@
+Client 0 Round 0: Incoming 127239.06 KB | Outgoing 6361.94 KB | Overhead: 0.483380s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.761862s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.757274s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.754113s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.745768s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.770277s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.756601s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.766765s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.745012s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.755651s
+Client 0 Round 0: Incoming 63619.41 KB | Outgoing 6361.94 KB | Overhead: 0.751704s
