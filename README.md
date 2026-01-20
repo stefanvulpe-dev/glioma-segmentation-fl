@@ -93,3 +93,11 @@ Baselines can be run to establish upper-bound performance metrics by training on
 -   **FedProx**: Adds a proximal term to the local objective to handle heterogeneity.
 -   **FedNova**: Normalized averaging to account for varying local updates.
 -   **FedOpt**: Adaptive optimization methods in the federated setting.
+
+## 📄 Reference
+
+**ICS FRAMEWORK: EMPIRICAL EVALUATION OF FEDERATED LEARNING STRATEGIES FOR BRAIN DISEASE DIAGNOSIS**
+*Vișan Ionuț, Poată Andrei-Cătălin, Vulpe Ștefan*
+Faculty of Automatics and Computer Science, National University of Science and Technology Politehnica Bucharest
+
+[Read the full paper](ICS_Framework.pdf)
